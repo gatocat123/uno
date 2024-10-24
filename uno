@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,YUC | TELEVISA YUCATAN
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1,YUC | TELE YUCATAN
+https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI0IDI6MTQ6NTAgQU0maGFzaF92YWx1ZT1TMGowT1ZwV3dRRkhzSmNTSWUrcGpRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+#EXTINF:-1,YUC | SIPSE TV
+https://webprod.sipse.com.mx:8080/show/merida.m3u8#amp=1
+#EXTINF:-1,YUC | TELEPLAY SURESTE
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1,MX | Canal De Las Estrellas
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/3
+#EXTINF:-1,MX | Canal 5
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1457
+#EXTINF:-1,MX | Azteca 1
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/458
+#EXTINF:-1,MX | Azteca 7
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/6
+#EXTINF:-1,MX | Imagen
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1695
+#EXTINF:-1,MX | Telemundo Int
+http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/54
 #EXTINF:-1,PR | WAPA 2
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/128
 #EXTINF:-1,PR | TeleOnce
@@ -39,10 +59,6 @@ http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1654
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/29
 #EXTINF:-1,MX | AZ Mundo
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/41
-#EXTINF:-1,MX | Azteca 1
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/458
-#EXTINF:-1,MX | Azteca 7
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/6
 #EXTINF:-1,MX | Baby TV
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1701
 #EXTINF:-1,MX | Bandamax
@@ -51,12 +67,8 @@ http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1634
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/467
 #EXTINF:-1,MX | Canal 44
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1536
-#EXTINF:-1,MX | Canal 5
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1457
 #EXTINF:-1,MX | Canal 8
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1715
-#EXTINF:-1,MX | Canal De Las Estrellas
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/3
 #EXTINF:-1,MX | Cartoon Network
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/50
 #EXTINF:-1,MX | Cartoonito
@@ -157,8 +169,6 @@ http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/289
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/57
 #EXTINF:-1,MX | Hola TV
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1696
-#EXTINF:-1,MX | Imagen
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1695
 #EXTINF:-1,MX | Ingenio TV
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1677
 #EXTINF:-1,MX | Lifetime
@@ -199,8 +209,6 @@ http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/88
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1697
 #EXTINF:-1,MX | Telemar
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1709
-#EXTINF:-1,MX | Telemundo Int
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/54
 #EXTINF:-1,MX | Televisa MTY
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1555
 #EXTINF:-1,MX | Televisa Puebla
