@@ -15,10 +15,6 @@ http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1457
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/458
 #EXTINF:-1,MX | Azteca 7
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/6
-#EXTINF:-1,MX | Imagen
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/1695
-#EXTINF:-1,MX | Telemundo Int
-http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/54
 #EXTINF:-1,PR | WAPA 2
 http://cdn1host.online:2999/hostingserverline2/YLiEQuBl5g/128
 #EXTINF:-1,PR | TeleOnce
